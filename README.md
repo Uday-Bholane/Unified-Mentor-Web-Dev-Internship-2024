@@ -56,21 +56,16 @@ Projects:
   - Displays temperature, humidity, and weather conditions.
   - Folder: /WeatherApp
 
-- View Project:- 
+- View Project:- unified-mentor-web-dev-internship-2024-ai4h04555.vercel.app   
 
-Installation
+Installation:-
 To run any of these projects locally, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the desired project directory:
-
-bash
-Copy code
-cd your-repo-name/ProjectFolderName
+- Clone the repository:
+      git clone https://github.com/your-username/your-repo-name.git
+  
+- Navigate to the desired project directory:
+      cd your-repo-name/ProjectFolderName
 Open the project in your browser:
 
 Simply double-click on index.html within the project folder.
@@ -85,13 +80,12 @@ Open index.html in your browser to view and interact with the project.
   - JavaScript: For implementing the logic and interactivity.
   - Weather API (for the Weather App).
   
-Contributing
-Contributions are welcome! Feel free to fork this repository, create new branches, and submit pull requests.
+
 
 
 - Contact
 For any questions or suggestions, feel free to reach out:
 
-Email: udaybholane02.com  
-GitHub: Uday-Bholane    
+Email: udaybholane02.com     
+GitHub: Uday-Bholane       
 # Unified-Mentor-Web-Dev-Internship-2024
