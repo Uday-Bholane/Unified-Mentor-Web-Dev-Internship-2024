@@ -56,23 +56,22 @@ Projects:
   - Displays temperature, humidity, and weather conditions.
   - Folder: /WeatherApp
 
-- View Project:- unified-mentor-web-dev-internship-2024-ai4h04555.vercel.app   
+- View Project:- https://unified-mentor-web-dev-internship-2024-eta.vercel.app/
 
 Installation:-
-To run any of these projects locally, follow these steps:
+   To run any of these projects locally, follow these steps:
 
-- Clone the repository:
-      git clone https://github.com/your-username/your-repo-name.git
+- Clone the repository:      
+      git clone https://github.com/Uday-Bholane/Unified-Mentor-Web-Dev-Internship-2024git
   
-- Navigate to the desired project directory:
-      cd your-repo-name/ProjectFolderName
-Open the project in your browser:
-
-Simply double-click on index.html within the project folder.
-Usage
-Clone the repository as described above.
-Navigate to the specific project folder.
-Open index.html in your browser to view and interact with the project.
+- Navigate to the desired project directory:      
+      cd Unified-Mentor-Web-Dev-Internship-2024/ProjectFolderName
+- Open the project in your browser:   
+   Simply double-click on index.html within the project folder.
+- Usage
+     - Clone the repository as described above.
+    -  Navigate to the specific project folder.
+      - Open index.html in your browser to view and interact with the project.
 
 - Technologies Used
   - HTML5: For structuring the content.
@@ -83,9 +82,8 @@ Open index.html in your browser to view and interact with the project.
 
 
 
-- Contact
-For any questions or suggestions, feel free to reach out:
-
+- Contact      
+For any questions or suggestions, feel free to reach out:      
 Email: udaybholane02.com     
 GitHub: Uday-Bholane       
 # Unified-Mentor-Web-Dev-Internship-2024
